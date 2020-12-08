@@ -1,6 +1,11 @@
 ## Hi, I'm Lakshan Dinesh👋
 **IT guy, interest on programming, designing and business analysis**
 >🌱 I love to learn and work with ***Python,Django*** and ***JavaScript***
+-
+-
+-
+-
+-[Email](lakshandinesh90@gmail.com)
 
 
 <!--
