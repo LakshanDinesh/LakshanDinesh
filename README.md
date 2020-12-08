@@ -1,5 +1,6 @@
-### Hi there 👋
-🌱 I’m currently learning Python,Django and JavaScript
+## Hi, I'm Lakshan Dinesh👋
+**IT guy, interest on programming, designing and business analysis**
+>🌱 I love to learn and work with ***Python,Django*** and ***JavaScript***
 
 
 <!--
